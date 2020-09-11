@@ -1,4 +1,10 @@
-### Hi there 👋
+<h2> Hi, I'm Jessika Darambaris  <img src="https://media.giphy.com/media/iJUhSOR9agCiXPFBqu/giphy.gif" width=80 style="margin-bottom: -1%"> </h2>
+<img align="right" src="https://media.giphy.com/media/MFxx9aqW8P6xdtX3BR/giphy.gif" height="350" />
+<p><em> 
+    I'm a Computer Engineer graduated from <a href=""> USP </a> <br />
+    I'm currently working as a Senior Data Engineer at <a href="">Picpay</a> 
+</em></p>
+
 
 <!--
 **darambaris/darambaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
