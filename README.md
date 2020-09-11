@@ -1,8 +1,8 @@
-<h2> Hi, I'm Jessika Darambaris  <img src="https://media.giphy.com/media/iJUhSOR9agCiXPFBqu/giphy.gif" width=80 style="margin-bottom: -0.5em"> </h2>
-<img align="right" src="https://media.giphy.com/media/MFxx9aqW8P6xdtX3BR/giphy.gif" height="350" />
+<h2> Hi, I'm Jessika Darambaris  <img src="https://media.giphy.com/media/3owyplYLWlGFQk9mF2/giphy.gif" width=60  valign="bottom" /></h2>
+<img align="right" src="https://media.giphy.com/media/MFxx9aqW8P6xdtX3BR/giphy.gif" height=350 />
 <p><em> 
-    I'm a Computer Engineer graduated from <a href=""> USP </a> <br />
-    I'm currently working as a Senior Data Engineer at <a href="">Picpay</a> 
+     :woman_student: I'm a Computer Engineer graduated from <a href="https://www5.usp.br/"> USP </a> <br />
+     :briefcase: I'm currently working as a Senior Data Engineer at <a href="https://www.picpay.com/site">Picpay</a> 
 </em></p>
 
 
