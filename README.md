@@ -4,7 +4,7 @@
      :briefcase:  I'm currently working as a Senior Data Engineer at <a href="https://www.picpay.com/site">Picpay</a> <br />
 </em></p>
 <p> 
-     <img align="right" src="https://media.giphy.com/media/MFxx9aqW8P6xdtX3BR/giphy.gif" height=400 valign="bottom" />
+     <img align="right" src="https://media.giphy.com/media/MFxx9aqW8P6xdtX3BR/giphy.gif" height=350 valign="bottom" />
      <h3> I've worked on...  <img src="https://media.giphy.com/media/5QTCH9HcixzA1STEs9/giphy.gif" width=50 valign="bottom"> </h3>
 
 ```json
