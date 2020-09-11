@@ -1,4 +1,4 @@
-<h2> Hi, I'm Jessika Darambaris  <img src="https://media.giphy.com/media/iJUhSOR9agCiXPFBqu/giphy.gif" width=80 style="margin-bottom: -3%"> </h2>
+<h2> Hi, I'm Jessika Darambaris  <img src="https://media.giphy.com/media/iJUhSOR9agCiXPFBqu/giphy.gif" width=80 style="margin-bottom: -0.5em"> </h2>
 <img align="right" src="https://media.giphy.com/media/MFxx9aqW8P6xdtX3BR/giphy.gif" height="350" />
 <p><em> 
     I'm a Computer Engineer graduated from <a href=""> USP </a> <br />
