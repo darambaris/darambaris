@@ -4,7 +4,8 @@
 </p>
 
 [![Linkedin: jessikadarambaris](https://img.shields.io/badge/-jessikadarambaris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessikadarambaris/)](https://www.linkedin.com/in/jessikadarambaris/)
-[![Linkedin: jessikadarambaris](https://img.shields.io/badge/-jessikadarambaris-green?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/darambaris)](https://www.hackerrank.com/darambaris)
+[![HackerRank: darambaris](https://img.shields.io/badge/-darambaris-green?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/darambaris)](https://www.hackerrank.com/darambaris)
+[![Medium: @jessika.darambaris](https://img.shields.io/badge/-@jessika.darambaris-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@jessika.darambaris)](https://medium.com/@jessika.darambaris)
 
 <p><em> 
      :woman_student:  I'm a Computer Engineer graduated from <a href="https://www5.usp.br/"> USP </a> <br />
