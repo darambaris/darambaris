@@ -12,7 +12,7 @@
      :briefcase:  I'm currently working as a Senior Data Engineer at <a href="https://www.picpay.com/site">Picpay</a> <br />
 </em></p>
 
-<h3 aling="left"> I've worked on...  <img src="https://media.giphy.com/media/5QTCH9HcixzA1STEs9/giphy.gif" width=50 valign="bottom"> </h3>
+<h3 aling="left"> I've been working on...  <img src="https://media.giphy.com/media/5QTCH9HcixzA1STEs9/giphy.gif" width=50 valign="bottom"> </h3>
 
 <img align="right" src="https://media.giphy.com/media/MFxx9aqW8P6xdtX3BR/giphy.gif" height=350 valign="bottom" />     
 <p align="left">
