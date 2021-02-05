@@ -19,7 +19,7 @@
      
 ```json
 {
-     "codes": [
+     "languages": [
           "Python", "PHP", "HTML", "CSS", "Javascript",
           "C/C++", "Clojure"
      ],
