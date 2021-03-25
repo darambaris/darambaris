@@ -41,3 +41,12 @@
 ```
 
 </p>
+
+
+Certications 🥇
+------
+
+<link target="_blank" href="https://www.youracclaim.com/badges/073566a5-31bf-4d2d-8f0c-033ace5fc646/public_url">
+    <img align="left" src="https://raw.githubusercontent.com/darambaris/darambaris/master/astronomer-certification-for-apache-airflow-fundamentals.png"/>
+</link>
+
