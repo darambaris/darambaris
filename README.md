@@ -46,5 +46,7 @@
 Certifications 🥇
 ------
 
-<a href="https://www.youracclaim.com/earner/earned/badge/073566a5-31bf-4d2d-8f0c-033ace5fc646"></a>
+<a href="https://www.youracclaim.com/earner/earned/badge/073566a5-31bf-4d2d-8f0c-033ace5fc646">
+<img border="0" alt="Click to check the certification" src="https://raw.githubusercontent.com/darambaris/darambaris/master/astronomer-certification-for-apache-airflow-fundamentals.png">
+</a>
 
