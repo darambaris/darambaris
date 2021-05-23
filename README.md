@@ -36,7 +36,7 @@
           ],
           "others": ["Databricks"]
      },
-     "tools": [
+     "Open Source Tools": [
           "Airflow", "Spark/Spark Streaming", "Metabase", 
           "Redash", "Kafka"
     ]
