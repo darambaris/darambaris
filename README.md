@@ -29,14 +29,17 @@
      "cloud services": {
           "AWS": [
                "S3", "Athena", "Redshift", "Glue", "EC2", 
-               "RDS", "Elastic Beanstalk", "Elastic Search"
+               "RDS", "Elastic Beanstalk", "SQS", "Lambda"
           ],
           "GCP": [
                "GCS", "BigQuery", "PubSub", "Firestore"
           ],
           "others": ["Databricks"]
      },
-     "tools": ["Airflow", "Spark", "Metabase", "Redash"]
+     "tools": [
+          "Airflow", "Spark/Spark Streaming", "Metabase", 
+          "Redash", "Kafka"
+    ]
 }
 ```
 
