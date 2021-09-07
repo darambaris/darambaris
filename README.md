@@ -24,7 +24,7 @@
      ],
      "databases": [
           "PostgreSQL", "MongoDB", "PrestoDB", "MySQL",
-          "DynamoDB"
+          "DynamoDB", "Debezium"
      ],
      "cloud services": {
           "AWS": [
@@ -38,7 +38,7 @@
      },
      "Open Source Tools": [
           "Airflow", "Spark/Spark Streaming", "Metabase", 
-          "Redash", "Kafka"
+          "Redash", "Kafka/Kafka Connect"
     ]
 }
 ```
