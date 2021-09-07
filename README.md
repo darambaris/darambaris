@@ -23,7 +23,8 @@
           "Python", "C/C++", "Clojure"
      ],
      "databases": [
-          "PostgreSQL", "MongoDB", "PrestoDB", "MySQL"
+          "PostgreSQL", "MongoDB", "PrestoDB", "MySQL",
+          "DynamoDB"
      ],
      "cloud services": {
           "AWS": [
