@@ -20,7 +20,7 @@
 ```json
 {
      "languages": [
-          "Python", "C/C++", "Clojure"
+          "Python", "Golang", "C/C++"
      ],
      "databases": [
           "PostgreSQL", "MongoDB", "PrestoDB", "MySQL",
