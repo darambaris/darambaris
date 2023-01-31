@@ -29,7 +29,8 @@
      "cloud services": {
           "AWS": [
                "S3", "Athena", "Redshift", "Glue", "EC2", 
-               "RDS", "Elastic Beanstalk", "SQS", "Lambda"
+               "RDS", "Elastic Beanstalk", "SQS", "Lambda",
+               "Step Functions", "Event Bridge", "Secrets Manager"
           ],
           "GCP": [
                "GCS", "BigQuery", "PubSub", "Firestore"
@@ -38,7 +39,8 @@
      },
      "Open Source Tools": [
           "Airflow", "Spark/Spark Streaming", "Metabase", 
-          "Redash", "Kafka/Kafka Connect"
+          "Redash", "Kafka/Kafka Connect", "Kubernetes", 
+          "Docker"
     ]
 }
 ```
