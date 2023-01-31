@@ -30,7 +30,7 @@
           "AWS": [
                "S3", "Athena", "Redshift", "Glue", "EC2", 
                "RDS", "Elastic Beanstalk", "SQS", "Lambda",
-               "Step Functions", "Event Bridge", "Secrets Manager",
+               "Step Functions", "Event Bridge", "SSM",
                "MWAA", "EKS"
           ],
           "GCP": [
