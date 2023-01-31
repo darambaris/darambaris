@@ -34,7 +34,8 @@
                "MWAA", "EKS"
           ],
           "GCP": [
-               "GCS", "BigQuery", "PubSub", "Firestore"
+               "GCS", "BigQuery", "PubSub", "Firestore",
+               "Composer"
           ],
           "others": ["Databricks"]
      },
