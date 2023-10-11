@@ -9,7 +9,6 @@
 
 <p><em> 
      :woman_student:  I'm a Computer Engineer graduated from <a href="https://www5.usp.br/"> USP </a> <br />
-     :briefcase:  I'm currently working as a Staff Data Engineer at <a href="https://www.picpay.com/site">Picpay</a> <br />
 </em></p>
 
 <h3 aling="left"> I've been working on...  <img src="https://media.giphy.com/media/5QTCH9HcixzA1STEs9/giphy.gif" width=50 valign="bottom"> </h3>
