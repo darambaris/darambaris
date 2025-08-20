@@ -1,5 +1,5 @@
 <p>
-    <h2>Hi, I'm Jessika Darambaris  <img src="https://media.giphy.com/media/3owyplYLWlGFQk9mF2/giphy.gif" width=70  /></h2>     
+    <h2>Hi, I'm Jess Darambaris  <img src="https://media.giphy.com/media/3owyplYLWlGFQk9mF2/giphy.gif" width=70  /></h2>     
     <img align="right" src="https://komarev.com/ghpvc/?username=darambaris&style=flat&label=Visitors"  />
 </p>
 
